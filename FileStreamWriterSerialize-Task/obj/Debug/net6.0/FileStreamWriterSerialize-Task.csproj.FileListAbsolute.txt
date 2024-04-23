@@ -1,0 +1,17 @@
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\bin\Debug\net6.0\FileStreamWriterSerialize-Task.exe
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\bin\Debug\net6.0\FileStreamWriterSerialize-Task.deps.json
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\bin\Debug\net6.0\FileStreamWriterSerialize-Task.runtimeconfig.json
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\bin\Debug\net6.0\FileStreamWriterSerialize-Task.dll
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\bin\Debug\net6.0\FileStreamWriterSerialize-Task.pdb
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\obj\Debug\net6.0\FileStreamWriterSerialize-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\obj\Debug\net6.0\FileStreamWriterSerialize-Task.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\obj\Debug\net6.0\FileStreamWriterSerialize-Task.AssemblyInfo.cs
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\obj\Debug\net6.0\FileStreamWriterSerialize-Task.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\obj\Debug\net6.0\FileStreamWriterSerialize-Task.dll
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\obj\Debug\net6.0\refint\FileStreamWriterSerialize-Task.dll
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\obj\Debug\net6.0\FileStreamWriterSerialize-Task.pdb
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\obj\Debug\net6.0\FileStreamWriterSerialize-Task.genruntimeconfig.cache
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\obj\Debug\net6.0\ref\FileStreamWriterSerialize-Task.dll
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\obj\Debug\net6.0\FileStreamWriterSerialize-Task.csproj.AssemblyReference.cache
+C:\Users\99455\source\repos\FileStreamWriterSerialize-Task\FileStreamWriterSerialize-Task\obj\Debug\net6.0\FileStre.B6D3895B.Up2Date

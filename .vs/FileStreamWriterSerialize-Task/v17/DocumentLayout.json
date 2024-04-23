@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\FileStreamWriterSerialize-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BB065A-7830-4AD3-B376-ED3AB83D7342}|FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task.csproj|c:\\users\\99455\\source\\repos\\filestreamwriterserialize-task\\filestreamwriterserialize-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BB065A-7830-4AD3-B376-ED3AB83D7342}|FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task.csproj|solutionrelative:filestreamwriterserialize-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BB065A-7830-4AD3-B376-ED3AB83D7342}|FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task.csproj|C:\\Users\\99455\\source\\repos\\FileStreamWriterSerialize-Task\\filestreamwriterserialize-task\\files\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8BB065A-7830-4AD3-B376-ED3AB83D7342}|FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task.csproj|solutionrelative:filestreamwriterserialize-task\\files\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BB065A-7830-4AD3-B376-ED3AB83D7342}|FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task.csproj|C:\\Users\\99455\\source\\repos\\FileStreamWriterSerialize-Task\\filestreamwriterserialize-task\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BB065A-7830-4AD3-B376-ED3AB83D7342}|FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task.csproj|solutionrelative:filestreamwriterserialize-task\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BB065A-7830-4AD3-B376-ED3AB83D7342}|FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task.csproj|C:\\Users\\99455\\source\\repos\\FileStreamWriterSerialize-Task\\filestreamwriterserialize-task\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BB065A-7830-4AD3-B376-ED3AB83D7342}|FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task.csproj|solutionrelative:filestreamwriterserialize-task\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.json",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task\\Files\\Products.json",
+              "RelativeDocumentMoniker": "FileStreamWriterSerialize-Task\\Files\\Products.json",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task\\Files\\Products.json",
+              "RelativeToolTip": "FileStreamWriterSerialize-Task\\Files\\Products.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T06:29:28.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FileStreamWriterSerialize-Task\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task\\Models\\Product.cs",
+              "RelativeToolTip": "FileStreamWriterSerialize-Task\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:20:12.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "FileStreamWriterSerialize-Task\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task\\Models\\Category.cs",
+              "RelativeToolTip": "FileStreamWriterSerialize-Task\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:20:04.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task\\Program.cs",
+              "RelativeDocumentMoniker": "FileStreamWriterSerialize-Task\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\FileStreamWriterSerialize-Task\\FileStreamWriterSerialize-Task\\Program.cs",
+              "RelativeToolTip": "FileStreamWriterSerialize-Task\\Program.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAswNIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:19:04.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
